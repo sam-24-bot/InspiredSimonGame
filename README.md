@@ -28,20 +28,24 @@ http://g.recordit.co/UfQ7AdCUbi.gif
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+
    I used stackoverflow and codeacademy in order to understand the placement of a tag, anchor, and also how the html file works.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+   
    In this program, I had trouble with understanding the parts of the html file and what I coded had what effect on the web page.
    In addition, I also had a bit of trouble creating a proper nested conditional statement that rightfully caused the buttons in the
    game to change. To adjust this issue, I referenced the sample code to understand how I should do it and also understand the flow of
    the variables.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
+   
    Can another language other than javascript be used alongside html and css?
    What is the purpose of an anchor?
    What is the pupose of the different parts of the html file?
 
 4) If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
+   
    If I had more time on this project, I would take more time to understand the logistics of the different programming languages
    in order to have better syntax and have a better understanding of what exactly am I coding.
 
